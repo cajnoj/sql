@@ -1,5 +1,5 @@
 # PostgreSQL JSON Scripts
-Supported versions: 9.4 - 10
+Supported versions: 9.4 - 12
 
 ## Functions
 Function | Description | Arguments | Returns
